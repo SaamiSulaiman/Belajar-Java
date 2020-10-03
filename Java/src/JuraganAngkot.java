@@ -1,3 +1,5 @@
+//1
+
 public class JuraganAngkot {
     public static void main(String[] args) {
         int kepake = 1;
